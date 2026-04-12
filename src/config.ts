@@ -18,27 +18,27 @@ export const config = {
   /* Button Labels */
   buttons: {
     hero: "هل انتِ مستعدة لمفاجأتي الصغيرة؟", // hero/landing button
-    soloGallery: "Want to see more?", // solo gallery button
+    soloGallery: "تريدي أن تري المزيد؟", // solo gallery button
   },
 
   /* Together Gallery (Optional) */
   togetherGallery: {
     enabled: true, // toggle together gallery
-    title: "💕 Our Memories 💕", // together gallery title
+    title: "💕 My best friend 💕", // together gallery title
     buttonText: "One last thing...", // together gallery button
   },
 
   /* Birthday Message: Each string is a paragraph */
   message: [
-    "Happy Birthday, my love!",
+    "عيد ميلاد سعيد يا نورهان!🎉",
     "",
-    "I hope today is filled with joy, laughter, and all the little moments that make you smile. As you step into this new year, may it bring exciting opportunities, meaningful memories, and the confidence to chase everything you dream of.",
+    "أتمنى ليكي يا قمري يوم سعيد وسنة جديدة من عمرك مليئة بالذكريات الجميلة وتحققي كل اللي تتمنية نجاح ومال وأشغال وحب وكل ما يهواه قلبك، وماتخليش أبدا أبدا أي شئ او شخص يحسسك بشعور سيء او يأثر على نفسيتك وروحك، أنتي جميلة...وتستحقي كل جميل في الحياة♥✨ .",
     "",
-    "You have so much ahead of you, and I hope you never stop believing in yourself and all that you’re capable of. May this year be kind to you, rewarding, and full of reasons to celebrate.",
+    "سنة جديدة لينا وأحنا مع بعض🫂، سنة جديدة هنصنع فيها ذكريات أجمل من ما كان ،عدينا كتيير مواقف مع بعض وخلافات مع بعض وعدناها كلها ♥،شكرا لوجودك في حياتي يا أغلى شخص دخل حياتي ،يا أفضل صديقة ممكن شخص يحظى بيها في حياته♥🥺.",
     "",
-    "Wishing you a beautiful birthday and an even more amazing year to come.",
+    "أتمنى من قلبي تعجبك الهدية البسيطة دية🫶 ،إن شاء الله دائماً وابداً نحتفل مع بعض بعيد ميلادك....ووعد السنة الجاية هيبقى عيد ميلاد مختلف🙃",
     "",
-    "- With love,",
+    "- صديقك, حسام",
   ],
 
   /* Theme Colors - Change these to customize the entire website theme! */
