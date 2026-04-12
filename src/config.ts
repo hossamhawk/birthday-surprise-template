@@ -11,24 +11,20 @@ export const config = {
   nameHint: '4 letters, starts with "ن"', // hint on wrong name
 
   /* Section Headings */
-  soloGalleryTitle: "✨ My Birthday Girl ✨", // solo gallery title
+  soloGalleryTitle: "✨ My Moon ✨", // solo gallery title
   messageTitle: "To My Favorite Person", // letter section title
-  footerText: "Made with 💗 just for you", // footer text
+  footerText: "Made with 💗 just Hossam", // footer text
 
   /* Button Labels */
   buttons: {
     hero: "Ready for a little surprise?", // hero/landing button
-    soloGallery: "Want to see more?", // solo gallery button
-  },
-
-  /* Together Gallery (Optional) */
+    soloGallery: "Want to surprisetle more?", // solo gallery button
+  }TogetherTogether Gallery (Optional) */
   togetherGallery: {
     enabled: true, // toggle together gallery
-    title: "💕 Our Memories 💕", // together gallery title
+    title: MemoriesMemories 💕", // together gallery title
     buttonText: "One last thing...", // together gallery button
-  },
-
-  /* Birthday Message: Each string is a paragraph */
+  }titleGalleryday Message: Each string is a paragraph */
   message: [
     "Happy Birthday, my love!",
     "",
