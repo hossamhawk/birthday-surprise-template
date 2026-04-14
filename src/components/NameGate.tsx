@@ -179,7 +179,7 @@ export default function NameGate({ onVerified }: NameGateProps) {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.1, duration: 0.5 }}
             >
-              Who are you?
+              اسم ديما بحب أناديكي بيه؟
             </motion.p>
 
             <motion.input
