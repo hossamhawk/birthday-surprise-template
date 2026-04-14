@@ -8,7 +8,7 @@
 export const config = {
   /* Name Verification Gate */
   recipientName: "قمري", // required name to enter
-  nameHint: '6 letters, starts with "ق"', // hint on wrong name
+  nameHint: '4 letters, starts with "ق"', // hint on wrong name
 
   /* Section Headings */
   soloGalleryTitle: "✨ My Moon's Birthday ✨", // solo gallery title
